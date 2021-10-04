@@ -1,0 +1,70 @@
+/* Navbar */
+.navbar{
+    flex-direction: column;
+    transition:all 0.5s ease-out; 
+    height: 13rem;
+}
+.nav-list{
+    flex-direction: column;
+}
+.nav-list li {
+    padding: 12px 0;
+    
+}
+.h-nav-resp{
+    height: 45px;
+   
+}
+.v-class-resp{
+    opacity: 0;
+    display: none;
+    
+}
+.img-resp{
+    display: none;
+}
+.display-none{
+    display: block;
+}
+
+/* Hamburger */
+.burger{
+ display: block;
+}
+
+/* Home */
+.btn-class {
+    display: flex;
+    flex-direction: column;
+}
+.btn {
+     margin: 5px 2rem;
+ 
+}
+.sm-txt{
+    padding: 0 7rem;
+}
+/* Home-card */
+.services{
+    display: flex;
+    flex-direction: column;
+  }
+/* Services */
+.container{
+    flex-direction: column;
+    align-items: center;
+}
+/* About */
+#about .about-container h2{
+    font-size: 21px;
+}
+/* other class */
+.m2-bottom{
+    margin-bottom: 1rem;
+}
+.m2-top{
+    margin-top: 1rem;
+}
+.bottom-resp{
+    margin-bottom: 3rem;
+}
