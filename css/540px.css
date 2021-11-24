@@ -1,5 +1,6 @@
 .services{
     flex-direction: column;
+        align-items: center;
 }
 /* other classess */
 .display-none{
