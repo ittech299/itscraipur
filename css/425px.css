@@ -2,7 +2,7 @@
 .navbar{
     flex-direction: column;
     transition:all 0.5s ease-out; 
-    height: 11.5rem;
+    height: 13.5rem;
     justify-content: center;
 }
 .nav-list{
