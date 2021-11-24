@@ -2,8 +2,9 @@
 .navbar{
     flex-direction: column;
     transition:all 0.5s ease-out; 
-    height: 13.5rem;
+    height: 15.5rem;
     justify-content: center;
+    flex-wrap: nowrap;
 }
 .nav-list{
     flex-direction: column;
